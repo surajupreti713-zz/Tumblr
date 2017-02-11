@@ -3,7 +3,9 @@ This app pulls feeds from the website https://api.tumblr.com/v2/blog/humansofnew
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/AH2OXg5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Total worked hours: 3
+
+<img src='http://i.imgur.com/5lsHvVI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
